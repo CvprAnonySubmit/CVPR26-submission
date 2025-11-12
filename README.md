@@ -1,6 +1,4 @@
-# One More Glance with Sharp Eye
-
-Official implementation of **One More Glance with Sharp Eye**. The finetuned weights and the conversation-formatted JSON file are shared via a [Google Drive link](https://drive.google.com/drive/folders/1s6U1bldf3YCkrmCbbbJ5Sx4JHINqECxu?usp=sharing).
+The finetuned weights and the conversation-formatted JSON file are shared via a [Google Drive link](https://drive.google.com/drive/folders/1s6U1bldf3YCkrmCbbbJ5Sx4JHINqECxu?usp=sharing).
 
 ## 📦 Installation
 
